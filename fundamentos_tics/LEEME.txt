@@ -1,0 +1,19 @@
+SITIO WEB: FUNDAMENTOS TICs
+Autor: Shander Antony Castro Lizana
+
+ARCHIVOS:
+- index.html: página Inicio, conceptos, aplicaciones, videos y recursos.
+- mapa-mental.html: mapa mental del tema.
+- presentacion.html: presentación del autor y formulario de contacto.
+- styles.css: estilos visuales comunes.
+- script.js: comportamiento demostrativo del formulario.
+
+PARA ABRIR:
+1. Descomprime el archivo ZIP.
+2. Abre index.html con tu navegador (Chrome, Edge, Firefox).
+3. Usa la navegación superior para visitar las tres páginas.
+
+PARA PUBLICAR:
+Puedes subir los archivos a un hosting estático como GitHub Pages o Netlify.
+El formulario solo demuestra el envío en pantalla; para recibir mensajes reales
+debe conectarse a un servicio de formularios o backend.
